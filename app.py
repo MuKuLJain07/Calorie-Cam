@@ -91,8 +91,8 @@ if st.button("Submit", type="primary") and uploaded_file is not None:
     the ratio of protein, carbohydrates, fats, vitamins, minerals and fibres along with the actual quantity of that nutrient.
     
     Ex -
-    Protein : 30gm (5%)
-    Carbohydrate : 100gm(20%)
+    Protein : <amount> (<percentage>)
+    Carbohydrate : <amount> (<percentage>)
     ----
     ----
     
